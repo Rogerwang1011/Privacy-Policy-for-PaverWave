@@ -1,133 +1,136 @@
-📄 MetroScore 隐私政策（Privacy Policy for MetroScore）
+MetroScore Privacy Policy
 
-生效日期：2025年XX月XX日
-最近更新：2025年XX月XX日
+Effective Date: XX, 2025
+Last Updated: XX, 2025
 
-MetroScore（以下简称“本应用”）由个人开发者 Roger Wang 独立开发并运营。本隐私政策旨在说明本应用如何处理用户信息、使用哪些权限以及用户的权利。
+MetroScore (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
+This Privacy Policy explains how the App handles user information, what system permissions are used, and the rights of users.
 
-MetroScore 是一款用于 乐谱阅读（PDF）、乐谱扫描、节拍器播放 的移动工具类应用。本应用致力于仅处理提供核心功能所必需的最少信息。
-
-⸻
-
-1. 我们不收集任何可识别用户的信息
-
-使用本应用期间：
-	•	❌ 不会收集、存储或上传任何个人信息
-	•	❌ 不会建立用户账号
-	•	❌ 不会采集联系方式、设备标识（IDFA）、位置、联系人信息
-	•	❌ 不会进行行为分析或广告追踪
-
-本应用所有处理均在设备本地完成。
+MetroScore is a mobile utility application designed for sheet music reading (PDF), sheet music scanning, and metronome playback.
+The App is committed to processing only the minimum information necessary to provide its core functionality.
 
 ⸻
 
-2. 我们不上传任何数据到服务器
-	•	本应用 不包含云端服务
-	•	本应用 不需要联网运行（除非你自行打开网络）
-	•	所有乐谱内容、扫描照片、节拍器设置均 只存储在你的设备内
-	•	本应用开发者无法访问你的任何文件或使用数据
+1. We Do Not Collect Any Personally Identifiable Information
+
+While using the App:
+	•	❌ We do not collect, store, or upload any personal information
+	•	❌ We do not require user accounts
+	•	❌ We do not collect contact information, device identifiers (such as IDFA), location data, or contacts
+	•	❌ We do not perform behavior analysis or advertising tracking
+
+All processing is performed entirely on the user’s device.
 
 ⸻
 
-3. 应用使用的权限说明
-
-为实现相关功能，本应用会使用以下系统权限：
-
-3.1 相机（Camera）
-
-用途：
-	•	用于扫描乐谱并生成 PDF
-	•	不会上传图像，不会进行人脸识别
-	•	图像仅在本地处理，用于生成 PDF 文件
-
-是否必需：
-	•	可选，用户拒绝后仍可正常使用其他功能
+2. We Do Not Upload Any Data to Servers
+	•	The App does not include any cloud services
+	•	The App does not require an internet connection to function (unless the user manually enables network access)
+	•	All sheet music files, scanned images, and metronome settings are stored locally on the device only
+	•	The developer of the App cannot access any user files or usage data
 
 ⸻
 
-3.2 照片库访问（Photo Library）
+3. Explanation of App Permissions
 
-用途：
-	•	导入本地相册中的乐谱照片或 PDF
+To provide relevant functionality, the App may request the following system permissions:
 
-是否必需：
-	•	可选，用于提高文件导入便利性
+3.1 Camera
 
-⸻
+Purpose:
+	•	Used to scan sheet music and generate PDF files
+	•	Images are not uploaded and no facial recognition is performed
+	•	Images are processed locally only for PDF generation
 
-3.3 文件访问（File Access）
-
-用途：
-	•	打开本地 PDF 文件
-	•	将扫描或导入的乐谱保存为 PDF
-	•	管理本地乐谱库
-
-是否必需：
-	•	是核心功能，但所有文件处理均在本地执行
+Required:
+	•	Optional. The App remains fully functional even if this permission is denied.
 
 ⸻
 
-4. 我们不会进行广告或追踪
+3.2 Photo Library Access
 
-本应用：
-	•	❌ 无广告
-	•	❌ 不集成第三方数据统计 SDK（如友盟、字节穿山甲、Facebook SDK）
-	•	❌ 不使用 IDFA
-	•	❌ 不做任何形式的跨站或跨应用追踪
+Purpose:
+	•	Import sheet music photos or PDF files from the local photo library
 
-⸻
-
-5. 第三方服务说明
-
-本应用 不接入任何第三方服务，包括但不限于：
-	•	第三方统计
-	•	第三方广告
-	•	第三方登录
-	•	第三方云端存储
-	•	内容分发网络（CDN）
-
-所有内容均在用户设备本地执行。
+Required:
+	•	Optional. Used solely to improve file import convenience.
 
 ⸻
 
-6. 数据保留与删除
+3.3 File Access
 
-由于本应用不会上传或保存任何用户数据，因此不存在服务器端的数据保留问题。
+Purpose:
+	•	Open local PDF files
+	•	Save scanned or imported sheet music as PDF files
+	•	Manage the local sheet music library
 
-用户可随时通过以下方式删除设备上的数据：
-	•	删除本应用内保存的乐谱文件
-	•	删除整个应用（系统将自动清除所有应用数据）
-
-⸻
-
-7. 儿童隐私保护
-
-本应用不包含任何不适合儿童的功能，也不收集儿童的任何个人信息。
-本应用可在家长监督下由未成年人正常使用。
+Required:
+	•	Core functionality. All file operations are performed locally on the device.
 
 ⸻
 
-8. 安全性
+4. No Advertising or Tracking
 
-虽然本应用不联网、不上传数据，但我们依然致力于：
-	•	本地数据仅保存在沙盒环境
-	•	不会读取未经授权的系统文件
-	•	不会在后台传输数据
-	•	不会进行未授权操作
-
-⸻
-
-9. 隐私政策更新
-
-如果本应用未来增加新的功能、权限或数据处理方式，我们会更新本隐私政策。更新后的内容将同步发布于官方网站或 App Store 链接。
+The App:
+	•	❌ Displays no advertisements
+	•	❌ Does not integrate any third-party analytics SDKs (such as Umeng, ByteDance, Facebook SDK, etc.)
+	•	❌ Does not use IDFA
+	•	❌ Does not perform any form of cross-site or cross-app tracking
 
 ⸻
 
-10. 联系方式
+5. Third-Party Services
 
-如对本隐私政策或本应用有任何疑问，可通过以下方式联系开发者：
+The App does not integrate any third-party services, including but not limited to:
+	•	Third-party analytics
+	•	Third-party advertising
+	•	Third-party login services
+	•	Third-party cloud storage
+	•	Content Delivery Networks (CDN)
 
-开发者：Roger Wang
-电子邮箱：tonndy@gmail.com
+All content and data processing occur locally on the user’s device.
 
-我们将尽力在 7 个工作日内回复。
+⸻
+
+6. Data Retention and Deletion
+
+Since the App does not upload or store any user data on servers, there are no server-side data retention concerns.
+
+Users may delete local data at any time by:
+	•	Deleting sheet music files within the App
+	•	Deleting the App itself (all App data will be automatically removed by the system)
+
+⸻
+
+7. Children’s Privacy
+
+The App does not contain any content unsuitable for children and does not collect any personal information from children.
+The App may be used by minors under parental supervision.
+
+⸻
+
+8. Security
+
+Although the App does not transmit data over the network, we remain committed to the following security practices:
+	•	Local data is stored only within the app sandbox
+	•	Unauthorized system files are not accessed
+	•	No background data transmission occurs
+	•	No unauthorized operations are performed
+
+⸻
+
+9. Changes to This Privacy Policy
+
+If new features, permissions, or data handling methods are introduced in the future, this Privacy Policy will be updated accordingly.
+Updated versions will be published on the official website or via the App Store listing.
+
+⸻
+
+10. Contact Information
+
+If you have any questions regarding this Privacy Policy or the App, please contact the developer:
+
+Developer: Roger Wang
+Email: tonndy@gmail.com
+
+We will make every effort to respond within 7 business days.
