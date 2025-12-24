@@ -3,7 +3,7 @@ MetroScore Privacy Policy
 Effective Date: XX, 2025
 Last Updated: XX, 2025
 
-MetroScore (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
+SmartScore - Sheet Music (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
 This Privacy Policy explains how the App handles user information, what system permissions are used, and the rights of users.
 
 MetroScore is a mobile utility application designed for sheet music reading (PDF), sheet music scanning, and metronome playback.
