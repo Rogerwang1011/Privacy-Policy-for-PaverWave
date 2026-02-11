@@ -1,9 +1,9 @@
-SmartScore - Sheet Music Privacy Policy
+PaperWave - Sheet Music Privacy Policy
 
 Effective Date: December 26, 2025
 Last Updated: December 26, 2025
 
-SmartScore – Sheet Music (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
+PaperWave – Sheet Music (hereinafter referred to as “the App”) is independently developed and operated by an individual developer, Roger Wang.
 
 This Privacy Policy explains how the App handles user data, system permissions, and privacy-related practices.
 
@@ -11,7 +11,7 @@ This Privacy Policy explains how the App handles user data, system permissions, 
 
 1. Overview
 
-SmartScore is a mobile utility application designed for:
+PaperWave is a mobile utility application designed for:
 	•	Reading and managing sheet music (PDF)
 	•	Scanning sheet music using the device camera
 	•	Providing a built-in metronome
@@ -127,7 +127,7 @@ Users may remove their data at any time by:
 
 The App does not knowingly collect any personal information from children.
 
-SmartScore is suitable for users of all ages and may be used by minors under parental supervision.
+PaperWave is suitable for users of all ages and may be used by minors under parental supervision.
 
 ⸻
 
